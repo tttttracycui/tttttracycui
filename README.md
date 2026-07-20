@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm TRACY</h1>
+<h1 align="center">Hi, I'm TRACY 👋</h1>
 
-<ul>
-  <li>📊 Risk Management student exploring AI, Finance and Web3.</li>
-  <li>⚡ AI-Native Builder creating research tools and automated workflows.</li>
-  <li>📮 Contact: <a href="mailto:cuicui@ln.hk">cuicui@ln.hk</a></li>
-</ul>
+<h3 align="center">
+  An AI-Native Builder exploring Finance, Web3 & Automation
+</h3>
+
+<p align="center">
+  AI-assisted Product Builder<br>
+  Keep Learning
+</p>
 
 <picture decoding="async" loading="lazy">
   <source
