@@ -9,4 +9,4 @@
 
 <br>
 
-![Tracy's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=summer)
+![Tracy's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt)
