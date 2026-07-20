@@ -3,7 +3,7 @@
 <ul>
   <li>📊 Risk Management student exploring AI, Finance and Web3.</li>
   <li>⚡ AI-Native Builder creating research tools and automated workflows.</li>
-  <li>📮 Contact: <a href="mailto:你的邮箱">你的邮箱</a></li>
+  <li>📮 Contact: <a href="cuicui@ln.hk">你的邮箱</a></li>
 </ul>
 
 <picture decoding="async" loading="lazy">
