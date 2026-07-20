@@ -2,11 +2,9 @@
 
 <h3 align="center">
   An AI-Native Builder exploring Finance, Web3 & Automation
+  Keep Learning
 </h3>
 
-<p align="center">
-  AI-assisted Product Builder<br>
-  Keep Learning
 </p>
 
 <br>
@@ -14,7 +12,7 @@
 <p align="center">
   <img
     width="100%"
-    alt="TRACY's CRT GitHub Stats"
-    src="https://pixel-profile.vercel.app/api/github-stats-crt?username=tttttracycui&include_all_commits=true"
+    alt="TRACY's GitHub Stats"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&screen_effect=true&background=linear-gradient%28to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb%29&v=2"
   >
 </p>
