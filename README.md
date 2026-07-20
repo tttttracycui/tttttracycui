@@ -145,26 +145,15 @@ I care about making products that are not only interesting demonstrations, but a
 
 ---
 
-## 🎯 2026 Building Goals
-
-* [ ] Launch an AI-assisted equity research prototype
-* [ ] Build three useful AI productivity tools
-* [ ] Publish reusable AI workflow templates
-* [ ] Improve my Python and API development skills
-* [ ] Document every major project with a clear case study
-* [ ] Contribute to an open-source project
-
----
-
 ## 🤝 Open to Opportunities
 
 I’m interested in graduate roles, internships and collaborations involving:
 
 * AI Product and Operations
 * FinTech and Financial Research
+* Equity Trading & Research
 * Web3 Products and Growth
 * Business Automation
-* Product Analytics
 * AI-enabled Strategy and Innovation
 
 I’m particularly interested in opportunities where I can combine:
@@ -175,7 +164,7 @@ I’m particularly interested in opportunities where I can combine:
 
 <div align="center">
 
-### Learning by building. Improving by shipping.
+### Learning by building.
 
 [LinkedIn](https://www.linkedin.com/in/shuyi-cui-17b2353a7/) ·
 [Portfolio](Developing) ·
