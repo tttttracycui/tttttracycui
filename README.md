@@ -34,7 +34,7 @@ An evidence-aware US market brief system that turns Obsidian research and AI-ass
 
 `Next.js 16` · `React 19` · `TypeScript` · `Node.js` · `Cloudflare Workers` · `Obsidian`
 
-[静态界面 Demo →](https://us-lens-daily-brief.yhy86c5pm6.chatgpt.site)
+[Static Interface Demo →](https://us-lens-daily-brief.yhy86c5pm6.chatgpt.site)
 
 ## Product Principles
 
